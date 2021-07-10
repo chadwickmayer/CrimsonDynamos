@@ -1,2 +1,2 @@
-# ProjectRamRod
-The repository for everything pertaining to Project RamRod,
+# CrimsonDynamos
+The repository for everything pertaining to our workout app,
